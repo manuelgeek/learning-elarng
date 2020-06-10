@@ -14,8 +14,6 @@
 <a target="_blank" href="https://magak.me">Magak Emmanuel</a>
 </p>
 
-
-
 ## Licence
 
 [MIT License](https://github.com/appcues/exsentry/blob/master/LICENSE.txt)
