@@ -8,6 +8,7 @@ Tutorial from https://elixir-lang.org/crash-course.html
 
 ## Details 
 // pending updates
+// it's a reding series
 
 ## About Me 
 
