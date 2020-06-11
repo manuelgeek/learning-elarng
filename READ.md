@@ -4,6 +4,8 @@
 
 > Making everything be fun 
 
+Tutorial from https://elixir-lang.org/crash-course.html 
+
 ## Details 
 // pending updates
 
